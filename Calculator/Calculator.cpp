@@ -45,7 +45,7 @@ int main()
         }
     }
 
-    string text1 = to_string(a);                                               // переводим из вубль в текст для 
+    string text1 = to_string(a);                                               // переводим из дубль в текст для 
     string text2 = to_string(b);                                               // для определения длинны в size()
     string text3 = to_string(result);
 
